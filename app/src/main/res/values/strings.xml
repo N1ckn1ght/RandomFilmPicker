@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Film Picker</string>
+    <string name="next">Choose random film</string>
+    <string name="clear">Full memory reset</string>
+    <string-array name="movies">
+        <item>qwerty</item>
+        <item>zxc</item>
+        <item>asdf</item>
+        <item>mahjong</item>
+        <item>Social Credit Points</item>
+    </string-array>
+</resources>
