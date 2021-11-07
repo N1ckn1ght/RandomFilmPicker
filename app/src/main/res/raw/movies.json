@@ -1,0 +1,108 @@
+{ "movies" : [
+  {
+    "name" : "The Matrix",
+    "direct" : "The Wachowskis",
+    "year" : "1999",
+    "rating" : "10/10",
+    "desc" : "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "genre" : [
+      "Action",
+      "Sci-fi"
+    ],
+    "cast" : [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ]
+  },
+  {
+    "name" : "The Truman Show",
+    "direct" : "Peter Weir",
+    "year" : "1998",
+    "rating" : "9/10",
+    "desc" : "An insurance salesman discovers his whole life is actually a reality TV show.",
+    "genre" : [
+      "Comedy",
+      "Drama"
+    ],
+    "cast" : [
+      "Jim Carrey",
+      "Laura Linney",
+      "Ed Harris",
+      "Noah Emmerich"
+    ]
+  },
+  {
+    "name" : "The Intouchables",
+    "direct" : "Olivier Nakache, Éric Toledano",
+    "year" : "2011",
+    "rating" : "8/10",
+    "desc" : "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "genre" : [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "cast" : [
+      "Francois Cluzet",
+      "Omar Sy",
+      "Audrey Fleurot",
+      "Anne Le Ny"
+    ]
+  },
+  {
+    "name" : "Zombieland",
+    "direct" : "Ruben Fleischer",
+    "year" : "2009",
+    "rating" : "7/10",
+    "desc" : "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+    "genre" : [
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "cast" : [
+      "Woody Harrelson",
+      "Jesse Eisenberg",
+      "Emma Stone",
+      "Abigail Breslin"
+    ]
+  },
+  {
+    "name" : "The Other Guys",
+    "direct" : "Adam McKay",
+    "year" : "2010",
+    "rating" : "6/10",
+    "desc" : "Two mismatched New York City detectives seize an opportunity to step up like the city's top cops, whom they idolize, only things don't quite go as planned.",
+    "genre" : [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "cast" : [
+      "Will Ferrell",
+      "Mark Wahlberg",
+      "Eva Mendes",
+      "Michael Keaton"
+    ]
+  },
+  {
+    "name" : "Taxi Driver",
+    "direct" : "Martin Scorsese",
+    "year" : "1976",
+    "rating" : "5/10",
+    "desc" : "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+    "genre" : [
+      "Crime",
+      "Drama"
+    ],
+    "cast" : [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd",
+      "Leonard Harris"
+    ]
+  }
+]
+}
